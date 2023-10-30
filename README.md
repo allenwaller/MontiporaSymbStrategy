@@ -1,2 +1,2 @@
 # MontiporaSymbStrategy
-Code and data for testing effects of symbiont population traits on coral bleaching recovery using the Hawaiian rice coral Montipora capitata hosting Cladocopium sp. or Durusdinium glynni. Data from summer 2019, Kane'ohe Bay, Hawai'i. Manuscript in review.
+Code and data for testing effects of symbiont population traits on coral bleaching recovery using the Hawaiian rice coral Montipora capitata hosting Cladocopium sp. or Durusdinium glynni. Data from summer 2019, Kane'ohe Bay, Hawai'i. Paper published in Symbiosis Jan 2023 (Allen-Waller, L., Barott, K.L. Symbiotic dinoflagellates divert energy away from mutualism during coral bleaching recovery. Symbiosis 89, 173–186 (2023). https://doi.org/10.1007/s13199-023-00901-3).
